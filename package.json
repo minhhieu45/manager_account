@@ -1,0 +1,27 @@
+{
+  "name": "manageraccount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "js-file-download": "^0.4.12",
+    "jsonwebtoken": "^8.5.1",
+    "mogo": "^0.0.1",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  }
+}
